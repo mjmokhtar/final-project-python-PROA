@@ -32,7 +32,7 @@ Kode ini merupakan contoh implementasi untuk melakukan analisis data dari databa
 
 ### Hasil Progran
 ![Debug](debug.jpg)
-![Grafik](Figure_1.jpg)
+![Grafik](Figure_1.png)
 
 ### Kontribusi
 - Jika Anda menemukan masalah atau ingin meningkatkan kode ini, silakan buka pull request atau issue di repository ini.
