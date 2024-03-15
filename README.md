@@ -30,6 +30,10 @@ Kode ini merupakan contoh implementasi untuk melakukan analisis data dari databa
 3. Ubah konfigurasi koneksi database pada bagian kode yang relevan dengan host, username, password, dan nama database Anda.
 4. Jalankan kode Python, dan hasil plot grafik akan ditampilkan.
 
+### Hasil Progran
+![Debug](debug.jpg)
+![Grafik](Figure_1.jpg)
+
 ### Kontribusi
 - Jika Anda menemukan masalah atau ingin meningkatkan kode ini, silakan buka pull request atau issue di repository ini.
 
